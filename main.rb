@@ -44,4 +44,4 @@ word << last
   last = curr
 end
 
-p word
+puts word
