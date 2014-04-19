@@ -9,7 +9,7 @@ do
 
 `ruby main.rb`
 
-while name.cool?
+until name.cool?
 
 ## License
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
